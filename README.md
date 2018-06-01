@@ -1,3 +1,2 @@
 python3 compliant version of aqibsaeed har cnn example
-
-really poor accuracy
+nearly 90% accuracy
